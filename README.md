@@ -28,8 +28,8 @@ This is the 4th Frontend Mentor challenge in the 'newbie' section. It's a simple
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Christenally/Recipe-Page))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://christenally.github.io/Recipe-Page))
 
 ## My process
 
@@ -70,9 +70,9 @@ This project was a bit of challenge because I was being a perfectionist. The maj
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Christenally)
+
 
 ## Acknowledgments
 
