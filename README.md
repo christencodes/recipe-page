@@ -28,8 +28,8 @@ This is the 4th Frontend Mentor challenge in the 'newbie' section. It's a simple
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/Christenally/Recipe-Page))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://christenally.github.io/Recipe-Page))
+- Solution URL: [View Repo](https://github.com/Christenally/Recipe-Page)
+- Live Site URL: [View Live Site](https://christenally.github.io/Recipe-Page)
 
 ## My process
 
@@ -66,12 +66,12 @@ This project was a bit of challenge because I was being a perfectionist. The maj
 
 ### Useful resources
 
-- [Example resource 1](https://www.google.com) - in Google we trust...
+- [Google!](https://www.google.com) - in Google we trust...
 
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Christenally)
+- Frontend Mentor - [@Christenally](https://www.frontendmentor.io/profile/Christenally)
 
 
 ## Acknowledgments
