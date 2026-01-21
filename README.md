@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ This is the 4th Frontend Mentor challenge in the 'newbie' section. It's a simple
 ### Links
 
 - Solution URL: [View Repo](https://github.com/christencodes/Recipe-Page)
-- Live Site URL: [View Live Site](https://christenally.github.io/Recipe-Page)
+- Live Site URL: [View Live Site](https://christencodes.github.io/Recipe-Page)
 
 ## My process
 
@@ -74,6 +74,6 @@ This project was a bit of challenge because I was being a perfectionist. The maj
 - Frontend Mentor - [@Christenally](https://www.frontendmentor.io/profile/Christenally)
 
 
-## Acknowledgments
 
-I would like to thank myself fo rbeing patient with myself.
+
+
