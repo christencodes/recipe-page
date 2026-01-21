@@ -28,7 +28,7 @@ This is the 4th Frontend Mentor challenge in the 'newbie' section. It's a simple
 
 ### Links
 
-- Solution URL: [View Repo](https://github.com/Christenally/Recipe-Page)
+- Solution URL: [View Repo](https://github.com/christencodes/Recipe-Page)
 - Live Site URL: [View Live Site](https://christenally.github.io/Recipe-Page)
 
 ## My process
